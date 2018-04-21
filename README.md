@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 19th, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Michael Hart)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment I created an application that allows data to be retrieved from a third party server using jQuery, AJAX, as well as JSON data.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://mjh15e.github.io/lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I Learned how to send and recieve HTTP requests and responses using an application.)
+2. (I also learned how to parse JSON data with an HTTP respsonse.)
+3. (Finally, I learned how to build an application using an API.)
